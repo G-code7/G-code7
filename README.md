@@ -6,7 +6,7 @@ I'm a passionate **Web Designer** with over 2 years of experience in creating vi
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -14,6 +14,7 @@ I'm a passionate **Web Designer** with over 2 years of experience in creating vi
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 ## 🌱 Currently Learning
 
@@ -26,10 +27,9 @@ I'm a passionate **Web Designer** with over 2 years of experience in creating vi
 
 ## 🔗 Featured Projects
 
-- [Project 1](https://github.com/G-code7/project1): Brief description of project 1.
-- [Project 2](https://github.com/G-code7/project2): Brief description of project 2.
+- [Coming Soon](#): Coming Soon.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-liendo-b5b668111/)
+- [Portfolio](#): Coming Soon.
