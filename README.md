@@ -1,4 +1,4 @@
-# Hi, I'm G-code7 👋
+# Hi, I'm Gustavo 👋
 
 I'm a passionate **Web Designer** with over 2 years of experience in creating visually stunning and user-friendly websites. I currently work for a US-based company, and I’m always looking to expand my knowledge and collaborate on exciting projects.
 
