@@ -31,12 +31,16 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 
 ## 🔗 Featured Projects
 
-- [Coming Soon](#): Coming Soon.
+- [4Geeks Academy](https://4geeksacademy.com/us/index)
+- [AnimaCollectiv website](https://animacollectiv.com/)
+- [CreeStudio](https://creestudio.es/)
+- [Aroha Website](https://aroha.com.es/)
+  
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-liendo-b5b668111/)
-- [Portfolio](#): Coming Soon.
+- [Portfolio](https://g-code7.github.io/)
 
 ---
 
