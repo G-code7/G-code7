@@ -41,7 +41,7 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-liendo-b5b668111/)
-- [Portfolio](https://g-code7.github.io/)
+- [Portfolio](https://worldofgust.com/)
 
 ---
 
