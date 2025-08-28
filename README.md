@@ -33,7 +33,7 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 
 - [4Geeks Academy](https://4geeksacademy.com/us/index)
 - [AnimaCollectiv website](https://animacollectiv.com/)
-- [CreeStudio](https://creestudio.es/)
+- CreeStudio (Under Construction)
 - [Aroha Website](https://aroha.com.es/)
 - [AvantiStore](https://onlinestoreavanti.com/)
   
