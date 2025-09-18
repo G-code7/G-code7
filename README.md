@@ -17,7 +17,7 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-323232?style=flat-square&logo=sqlalchemy&logoColor=red)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)[
 
 
 ## 🌱 Currently Learning
@@ -37,6 +37,7 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 - [Aroha Website](https://aroha.com.es/)
 - [AvantiStore](https://onlinestoreavanti.com/)
 - [Pancabk](https://pancabk.com/)
+- ![Ciel&K](https://cieloandk.com/)
   
 
 ## 📫 Let's Connect
