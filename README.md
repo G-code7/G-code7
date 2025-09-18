@@ -37,7 +37,7 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 - [Aroha Website](https://aroha.com.es/)
 - [AvantiStore](https://onlinestoreavanti.com/)
 - [Pancabk](https://pancabk.com/)
-- ![Ciel&K](https://cieloandk.com/)
+- [Cielo&K](https://cieloandk.com/)
   
 
 ## 📫 Let's Connect
