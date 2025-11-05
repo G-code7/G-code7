@@ -38,6 +38,7 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 - [AvantiStore](https://onlinestoreavanti.com/)
 - [Pancabk](https://pancabk.com/)
 - [Cielo&K](https://cieloandk.com/)
+- [Daniknows](https://www.daniknows.com/)
   
 
 ## 📫 Let's Connect
