@@ -37,8 +37,7 @@ My expertise allows me to manage both the front-end and back-end of any applicat
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-code7&layout=compact&theme=vision-friendly&title_color=2f80ed&text_color=000000&bg_color=ffffff&hide_border=true" alt="Top Languages" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-code7&theme=dark&background=00000000&hide_border=true&card_width=450" alt="GitHub Streak" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-code7&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ## 🔗 Featured Projects & Contributions
