@@ -31,17 +31,17 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 
 ## 🔗 Featured Projects & Contributions
 
-[cite_start]I have experience in web structure development, SEO optimization, and enhancing UI/UX for various clients and platforms[cite: 9, 26, 27, 33].
+I have experience in web structure development, SEO optimization, and enhancing UI/UX for various clients and platforms
 
 ### Professional Collaborations & Experience
 
-* [cite_start]**4Geeks Academy Website v2:** Contributed to the repository by adding new features and refining existing functionalities[cite: 28].
-* [cite_start]**4Geeks Academy (Web Designer Specialist):** Developed and maintained the website structure using React.js and Gatsby, and optimized SEO strategies[cite: 25, 26].
-* [cite_start]**Freelance Web Developer:** Developed and customized websites and online stores using various CMS platforms[cite: 31]. [cite_start]Ensured responsive design and cross-browser compatibility[cite: 33].
+* **[4Geeks Academy](https://4geeksacademy.com/us/index) Website v2:** Contributed to the repository by adding new features and refining existing functionalities.
+* **4Geeks Academy (Web Designer Specialist):** Developed and maintained the website structure using React.js and Gatsby, and optimized SEO strategies.
+* **Freelance Web Developer:** Developed and customized websites and online stores using various CMS platforms. 
+Ensured responsive design and cross-browser compatibility.
 
 ### Client Projects (Freelance)
 
-* [4Geeks Academy](https://4geeksacademy.com/us/index)
 * [AnimaCollectiv website](https://animacollectiv.com/)
 * [Aroha Website](https://aroha.com.es/)
 * [AvantiStore](https://onlinestoreavanti.com/)
