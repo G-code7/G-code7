@@ -2,22 +2,31 @@
 
 I'm a passionate **Web Designer** with over 5 years of experience in creating visually stunning and user-friendly websites. I currently work for a US-based company, and I’m always looking to expand my knowledge and collaborate on exciting projects.
 
-## 🛠️ Technologies & Tools
+## 🚀 Technology Stack & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+My expertise allows me to manage both the front-end and back-end of any application efficiently.
+
+### Front-End & Design (UX/UI)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=flat-square&logo=git-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
+### Back-End & Databases
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-323232?style=flat-square&logo=sqlalchemy&logoColor=red)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)[
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile%20Development-007FFF?style=flat-square&logo=gitkraken&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 
 ## 🌱 Currently Learning
@@ -27,7 +36,10 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=G-code7&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-code7&layout=compact&theme=vision-friendly&title_color=2f80ed&text_color=000000&bg_color=ffffff&hide_border=true" alt="Top Languages" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-code7&theme=dark&background=00000000&hide_border=true&card_width=450" alt="GitHub Streak" width="45%"/>
+</p>
 
 ## 🔗 Featured Projects & Contributions
 
