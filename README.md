@@ -76,6 +76,15 @@ Showcasing my commitment to continuous development and my primary language focus
 </p>
 
 ---
+## ➡️ Looking for Exciting Opportunities
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Seeking-Remote%20Full%20Stack-2070e6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Focus-Scalable%20Architecture-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Availability-Immediate%20Joiner-00aa00?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</p>
+
+---
 
 ## 📫 Let's Connect (CTA)
 
