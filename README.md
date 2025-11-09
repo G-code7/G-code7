@@ -70,8 +70,6 @@ This project demonstrates expertise in building a modern, scalable SaaS environm
 Showcasing my commitment to continuous development and my primary language focus.
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-code7&layout=compact&theme=vision-friendly" alt="Top Languages"/>
-    
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-code7&theme=dark" alt="GitHub Streak"/>
 </p>
 
