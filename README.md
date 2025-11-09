@@ -29,16 +29,26 @@ I'm a passionate **Web Designer** with over 5 years of experience in creating vi
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=G-code7&show_icons=true&theme=radical)
 
-## 🔗 Featured Projects
+## 🔗 Featured Projects & Contributions
 
-- [4Geeks Academy](https://4geeksacademy.com/us/index)
-- [AnimaCollectiv website](https://animacollectiv.com/)
-- CreeStudio (Under Construction)
-- [Aroha Website](https://aroha.com.es/)
-- [AvantiStore](https://onlinestoreavanti.com/)
-- [Pancabk](https://pancabk.com/)
-- [Cielo&K](https://cieloandk.com/)
-- [Daniknows](https://www.daniknows.com/)
+[cite_start]I have experience in web structure development, SEO optimization, and enhancing UI/UX for various clients and platforms[cite: 9, 26, 27, 33].
+
+### Professional Collaborations & Experience
+
+* [cite_start]**4Geeks Academy Website v2:** Contributed to the repository by adding new features and refining existing functionalities[cite: 28].
+* [cite_start]**4Geeks Academy (Web Designer Specialist):** Developed and maintained the website structure using React.js and Gatsby, and optimized SEO strategies[cite: 25, 26].
+* [cite_start]**Freelance Web Developer:** Developed and customized websites and online stores using various CMS platforms[cite: 31]. [cite_start]Ensured responsive design and cross-browser compatibility[cite: 33].
+
+### Client Projects (Freelance)
+
+* [4Geeks Academy](https://4geeksacademy.com/us/index)
+* [AnimaCollectiv website](https://animacollectiv.com/)
+* [Aroha Website](https://aroha.com.es/)
+* [AvantiStore](https://onlinestoreavanti.com/)
+* [Pancabk](https://pancabk.com/)
+* [Cielo&K](https://cieloandk.com/)
+* [Daniknows](https://www.daniknows.com/)
+* *CreeStudio (Under Construction)*
   
 
 ## 📫 Let's Connect
