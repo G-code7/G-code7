@@ -21,7 +21,6 @@ const gustavo = {
   building:    ["Ventu (B2B SaaS)", "Cree Studio (Creative Agency)"],
   stack:       ["React", "Next.js", "Django", "PostgreSQL", "AWS", "Docker"],
   currently:   "Architecting scalable SaaS & shipping custom Shopify builds",
-  goal:        "Land a remote role paying $2,500+/mo doing work that matters",
   philosophy:  "Ship it. Then make it beautiful. Then make it fast.",
 };
 ```
